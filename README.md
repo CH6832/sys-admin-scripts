@@ -1,4 +1,4 @@
-# Linux (Ubuntu) System Maintenance Scripts
+# Linux and Windows System Maintenance Scripts
 
 ## :newspaper: About the project
 
